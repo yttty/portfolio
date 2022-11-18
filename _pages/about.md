@@ -2,24 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='http://ariselab.cse.cuhk.edu.hk/'>ARISE Lab</a>. Department of Computer Science and Engineering, CUHK.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Rm 101A, 1/F, Ho Sin Hang Erg Bldg</p>
+    <p>CHUK, Shatin, N.T.</p>
+    <p>Hong Kong SAR</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I have obtained a Ph.D. at <a href='https://www.cuhk.edu.hk/english/index.html'>The Chinese University of Hong Kong</a> and a B.Eng at <a href='https://www.sysu.edu.cn/sysuen/'>Sun Yat-Sen University</a>. I developed interdisciplinary skillsets in both machine learning and system engineering.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My current research focuses on using cutting-edge machine learning to model monitoring metrics and improve the reliability and performance of cloud computing systems.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Till October 2022, I have published papers in top conferences, including ASE, DSN, ICDCS, WWW, ISSRE, etc. Besides, I have also spent time at Microsoft Research Asia, Huawei Cloud, and Ant Financial as a research intern/data analyst intern.
