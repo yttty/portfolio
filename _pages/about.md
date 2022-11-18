@@ -9,7 +9,7 @@ profile:
   image: pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Rm 101A, 1/F, Ho Sin Hang Erg Bldg</p>
+    <p>Rm 101A, 1/F, SHB</p>
     <p>CHUK, Shatin, N.T.</p>
     <p>Hong Kong SAR</p>
 
