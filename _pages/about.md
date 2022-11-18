@@ -18,8 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I have obtained a Ph.D. at <a href='https://www.cuhk.edu.hk/english/index.html'>The Chinese University of Hong Kong</a> and a B.Eng at <a href='https://www.sysu.edu.cn/sysuen/'>Sun Yat-Sen University</a>. I developed interdisciplinary skillsets in both machine learning and system engineering.
+Tianyi Yang works in the interdisciplinary fields of machine learning and system engineering. His current research focuses on using cutting-edge machine learning to model monitoring metrics and improve the reliability and performance of cloud computing systems.
 
-My current research focuses on using cutting-edge machine learning to model monitoring metrics and improve the reliability and performance of cloud computing systems.
-
-Till October 2022, I have published papers in top conferences, including ASE, DSN, ICDCS, WWW, ISSRE, etc. Besides, I have also spent time at Microsoft Research Asia, Huawei Cloud, and Ant Financial as a research intern/data analyst intern.
+Tianyi Yang got his Ph.D. from <a href='https://www.cuhk.edu.hk/english/index.html'>The Chinese University of Hong Kong</a> and B.Eng from <a href='https://www.sysu.edu.cn/sysuen/'>Sun Yat-Sen University</a>. Till October 2022, he has published papers in top conferences, including ASE, DSN, ICDCS, WWW, ISSRE, etc. Besides, he has also spent time at Microsoft Research Asia, Huawei Cloud, and Ant Financial as a research intern/data analyst intern.
