@@ -7,7 +7,7 @@ subtitle: <a href='http://ariselab.cse.cuhk.edu.hk/'>ARISE Lab</a>. Department o
 profile:
   align: right
   image: pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
     <p>101A, 1/F, SHB</p>
     <p>CHUK, Shatin, N.T.</p>
