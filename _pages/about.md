@@ -2,16 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='http://ariselab.cse.cuhk.edu.hk/'>ARISE Lab</a>. Department of Computer Science and Engineering, CUHK.
+subtitle: <a href='http://ariselab.cse.cuhk.edu.hk/'>ARISE Lab</a>, Department of Computer Science and Engineering, CUHK.
 
 profile:
   align: right
   image: pic.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>101A, 1/F, SHB</p>
-    <p>CHUK, Shatin, N.T.</p>
-    <p>Hong Kong SAR</p>
+    <p>tim.tyyang at outlook.com</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
