@@ -9,8 +9,11 @@ layout: default
             <p class="post-description">{{ page.description }}</p>
           </header>
 
-          <!-- <article>
-            <div class="cv">
+          
+          
+          <article>
+            {% pdf ""{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}" %}
+            <!-- <div class="cv">
               {% for entry in site.data.cv %}
                 <div class="card mt-3 p-3">
                   <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>
@@ -29,7 +32,7 @@ layout: default
                   </div>
                 </div>
               {% endfor %}
-              </div>
-          </article> -->
+              </div> -->
+          </article>
 
         </div>
