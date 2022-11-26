@@ -2,7 +2,7 @@
 layout: page
 permalink: /patents/
 title: patents
-description: Patents of mine.
+description:
 nav: true
 nav_order: 2
 ---
