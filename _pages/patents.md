@@ -4,7 +4,7 @@ permalink: /patents/
 title: patents
 description: Patents of mine.
 nav: true
-nav_order: 5
+nav_order: 2
 ---
 
 ### Chinese Patents
