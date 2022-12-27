@@ -20,4 +20,4 @@ Tianyi Yang works in the interdisciplinary fields of machine learning and system
 
 Tianyi Yang got his Ph.D. from <a href='https://www.cuhk.edu.hk/english/index.html'>The Chinese University of Hong Kong</a> and B.Eng from <a href='https://www.sysu.edu.cn/sysuen/'>Sun Yat-Sen University</a>. Till November 2022, he has published papers in top conferences, including ASE, DSN, ICDCS, WWW, ISSRE, etc. Besides, he has also spent time at Microsoft Research Asia, Huawei Cloud, and Ant Financial as a research intern/data analyst intern.
 
-💡 **Tianyi is currently on the job market. Open to Quant/Data Scientist positions in Hong Kong/Shanghai/Singapore/US. Reach me via <a href='https://www.linkedin.com/in/tyya'>LinkedIn</a>!**
+💡 **Tianyi is currently on the job market. Open to Quant/Data Scientist positions in Hong Kong/Shenzhen/Shanghai/Singapore/US. Reach me via <a href='https://www.linkedin.com/in/tyya'>LinkedIn</a>!**
