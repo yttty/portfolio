@@ -4,7 +4,7 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 4
-cv_pdf: resume_Tianyi_Yang.pdf
+cv_pdf: Full_Resume_Tianyi_Yang.pdf
 ---
 
 
